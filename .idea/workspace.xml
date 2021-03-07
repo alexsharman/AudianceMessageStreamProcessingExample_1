@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88df04e7-a0d5-4761-a717-fd7fc9e22a48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pNTCcJOIdvFZPn4gurkjGozXE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/exercise/one" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BlackPorcupine\Documents\Spring_Projects\kantar\src\main\java\org\exercise\one\" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.exercise.one.processing" />
+      <recent name="org.exercise.one" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercise.one.Main" />
+      <module name="Audiance_test_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercise.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamProcessingTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Audiance_test_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercise.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.exercise.one" />
+      <option name="MAIN_CLASS_NAME" value="org.exercise.one.StreamProcessingTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamProcessingTestSuite.givenInputCheckIfAllLinesExistInOutputFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Audiance_test_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercise.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.exercise.one" />
+      <option name="MAIN_CLASS_NAME" value="org.exercise.one.StreamProcessingTestSuite" />
+      <option name="METHOD_NAME" value="givenInputCheckIfAllLinesExistInOutputFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamProcessingTestSuite.givenInputStreamCheckNotEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Audiance_test_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercise.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.exercise.one" />
+      <option name="MAIN_CLASS_NAME" value="org.exercise.one.StreamProcessingTestSuite" />
+      <option name="METHOD_NAME" value="givenInputStreamCheckNotEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamProcessingTestSuite.givenProcessFileCheckHasCalculatedFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Audiance_test_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercise.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.exercise.one" />
+      <option name="MAIN_CLASS_NAME" value="org.exercise.one.StreamProcessingTestSuite" />
+      <option name="METHOD_NAME" value="givenProcessFileCheckHasCalculatedFields" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StreamProcessingTestSuite.givenProcessFileCheckHasCalculatedFields" />
+        <item itemvalue="JUnit.StreamProcessingTestSuite" />
+        <item itemvalue="JUnit.StreamProcessingTestSuite.givenInputStreamCheckNotEmpty" />
+        <item itemvalue="JUnit.StreamProcessingTestSuite.givenInputCheckIfAllLinesExistInOutputFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88df04e7-a0d5-4761-a717-fd7fc9e22a48" name="Default Changelist" comment="" />
+      <created>1615022424862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615022424862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.nio.file.NoSuchFileException" package="java.nio.file" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

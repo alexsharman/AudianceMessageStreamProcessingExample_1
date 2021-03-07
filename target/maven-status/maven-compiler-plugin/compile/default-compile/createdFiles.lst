@@ -1,0 +1,9 @@
+org\exercise\one\processing\InputMessageProcessing.class
+org\exercise\one\Main.class
+org\exercise\one\models\OutModel.class
+org\exercise\one\processing\InFileReader.class
+org\exercise\one\processing\StreamProcessing.class
+org\exercise\one\processing\InReader.class
+org\exercise\one\processing\OutWriter.class
+org\exercise\one\models\InModel.class
+org\exercise\one\processing\OutFileWriter.class

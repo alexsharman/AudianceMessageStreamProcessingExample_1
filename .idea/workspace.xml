@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88df04e7-a0d5-4761-a717-fd7fc9e22a48" name="Default Changelist" comment="" />
+    <list default="true" id="88df04e7-a0d5-4761-a717-fd7fc9e22a48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Audiance_test_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/models/InModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/models/OutModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/processing/InFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/processing/InReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/processing/InputMessageProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/processing/OutFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/processing/OutWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exercise/one/processing/StreamProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/in_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/exercise/one/StreamProcessingTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/in_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/models/InModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/models/OutModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/processing/InFileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/processing/InReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/processing/InputMessageProcessing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/processing/OutFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/processing/OutWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/exercise/one/processing/StreamProcessing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/output_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/exercise/one/StreamProcessingTestSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +65,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/exercise/one" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
